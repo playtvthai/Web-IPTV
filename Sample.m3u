@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
-#
-#   Homepage: http://iptv36.mooo.com/ (Find another version of IPTV playlists here)
-#   Automatically update at: 2025-09-20T02:52 ICT
+
 
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
@@ -125,4 +123,5 @@ http://iptv36.mooo.com/logo/info.png
 
 #EXTINF:-1 tvg-chno="40" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
 http://iptv36.mooo.com/logo/info.png
+
 
