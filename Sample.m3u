@@ -1,55 +1,128 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="News18Lokmat.in" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="News",News18 Lokmat
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Majha.png" group-title="News",ABP Majha (720p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8
-#EXTINF:-1 tvg-id="NDTV-Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/300px-NDTV_logo.svg.png" group-title="News",NDTV Marathi
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 tvg-id="INBD400001CP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png" group-title="News" , Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="INBD2500006OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20240131T032532SQUARE.png_20240131032533.png" group-title="News" , TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi
-https://live-faktmarathi.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" group-title="Music" , Maiboli
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
-https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="Music",9x Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
+#
+#   Homepage: http://iptv36.mooo.com/ (Find another version of IPTV playlists here)
+#   Automatically update at: 2025-09-20T02:52 ICT
 
+#EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT FHD
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
 
-#EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood {Distro}" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Shemaroo_TV_Logo.png" group-title="Movies",Shemaroo Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:-1 tvg-id="Bollywood Prime" tvg-name="Bollywood Prime {Distro}" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png" group-title="Movies",Bollywood Prime
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="iptv36.nbt" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=4",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Infotainment", Adventure Earth
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" group-title="Infotainment" , Xplore
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="iptv36.thaipbs" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="4" tvg-id="iptv36.thaipbs" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.powernationtv.com/images/brands/pn_icon_sm.png" group-title="Infotainment", PowerNation TV
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
-https://i.mjh.nz/SamsungTVPlus/USBD2500017XQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Motorvision%2B_Logo_2023.svg" group-title="Infotainment", MotorVision
-https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=1199&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 tvg-chno="5" tvg-id="iptv36.altv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/altv.png",ALTV FHD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DroneTV" tvg-name="DroneTV Shorts" tvg-logo="https://cdn.airvuz.com/assets/header/airvuz-drone-logo.png" group-title="Infotainment", DroneTV Shorts
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
-#EXTINF:-1 tvg-id="WM" tvg-name="Watch Mojo" tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp" group-title="Infotainment", Watch Mojo (EU)
-https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RT" tvg-name="Rotten Tomatoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Rotten_Tomatoes.svg" group-title="Infotainment", Rotten Tomatoes (EU)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoesroku-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-id="NASA" tvg-name="NASA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/NASA_TV.svg" group-title="Infotainment", NASA TV Live
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://helios-i.mashable.com/imagery/roundup-products/03i7YGjGhVgcnzv5MoErkEn/product-image.fit_lpad.size_672x378.v1630424422.png" group-title="Infotainment", Documentary+
-https://documentaryplus-documentaryplus-3-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryTV" tvg-name="HistoryTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Infotainment", HistoryTV 365
-https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Modern_Marvels_title_credits.jpg" group-title="Infotainment", Modern Marvels
-https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="iptv36.altv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/altv.png",ALTV
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
 
+#EXTINF:-1 tvg-chno="7" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="8" tvg-id="iptv36.tv5" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 
+#EXTINF:-1 tvg-chno="9" tvg-id="iptv36.tsports" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
+
+#EXTINF:-1 tvg-chno="11" tvg-id="iptv36.tptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="iptv36.tnn16" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="iptv36.jkn18" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/jkn18.png",JKN18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="iptv36.jkn18" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/jkn18.png",JKN18 Top News HD
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="iptv36.nation" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV FHD
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="iptv36.true4u" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 tvg-chno="20" tvg-id="iptv36.true4u" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 FHD
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
+https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-chno="28" tvg-id="iptv36.mcot" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="iptv36.one" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="iptv36.thairath" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV HD
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="iptv36.ch3" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="iptv36.amarin" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
+#EXTVLCOPT:http-referrer=https://www.ch7.com/
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="iptv36.ch7" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="iptv36.pptv" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+
+#EXTINF:-1 tvg-chno="39" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2025-09-20T02:52
+http://iptv36.mooo.com/logo/info.png
+
+#EXTINF:-1 tvg-chno="40" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
+http://iptv36.mooo.com/logo/info.png
 
