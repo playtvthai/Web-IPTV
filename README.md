@@ -1,4 +1,4 @@
-## Take a look: [📺Live Now]([https://pratikkarbhal.github.io/Web-IPTV](https://playtvthai.github.io/Web-IPTV/) 
+## Take a look: [📺Live Now]([https://playtvthai.github.io/Web-IPTV]/) 
 Only for educational purposes, Make your own...
 
 For Android/Smart TVs:
