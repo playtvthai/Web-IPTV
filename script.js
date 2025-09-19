@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Proxy URL to bypass CORS policy
     const proxyURL = 'https://api.allorigins.win/get?url=';
-    const playlistURL = 'https://github.com/playtvthai/Web-IPTV/blob/main/Sample.m3u?raw=true';
+    const playlistURL = 'https://raw.githubusercontent.com/playtvthai/Web-IPTV/refs/heads/main/Sample.m3u';
     const proxyPlaylistURL = proxyURL + encodeURIComponent(playlistURL);
 
     fetch(proxyPlaylistURL)
@@ -63,4 +63,5 @@ document.addEventListener('DOMContentLoaded', function () {
         player.load(url);
     }
 });
+
 
