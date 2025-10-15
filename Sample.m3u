@@ -121,7 +121,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",2025-09-20T02:52
 http://iptv36.mooo.com/logo/info.png
 
-#EXTINF:-1 tvg-chno="40" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",https://iptv36.mooo.com/
-http://iptv36.mooo.com/logo/info.png
+#EXTINF:-1 tvg-chno="40" group-title="Thai Free TV" tvg-logo="http://iptv36.mooo.com/logo/info.png",Test
+http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.m3u8
 
 
+#EXTINF:-1 tvg-chno="33" tvg-id="iptv36.ch3" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
+http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.m3u8
