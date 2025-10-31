@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Proxy URL to bypass CORS policy
     const proxyURL = 'https://api.allorigins.win/get?url=';
-    const playlistURL = 'https://raw.githubusercontent.com/playtvthai/Web-IPTV/refs/heads/main/Sample.m3u';
+    const playlistURL = 'https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0';
     const proxyPlaylistURL = proxyURL + encodeURIComponent(playlistURL);
 
     fetch(proxyPlaylistURL)
